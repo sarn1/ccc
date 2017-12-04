@@ -1,0 +1,9 @@
+.featured_box {
+	position: relative; 
+	overflow: hidden;
+}
+
+.featured_box_inner {
+	position: absolute; 
+	top: 50%;	
+}
